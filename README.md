@@ -1,9 +1,9 @@
 # A simple backend application using ServerLess and MicroServices Architecture concepts
 
-# Base Serverless Framework Template (taken from Codingly.io) 
+# Base Serverless Framework Template
 
 ## What's included
-* Folder structure used consistently across our projects.
+* Folder structure used consistently across projects.
 * [serverless-pseudo-parameters plugin](https://www.npmjs.com/package/serverless-pseudo-parameters): Allows you to take advantage of CloudFormation Pseudo Parameters.
 * [serverless-bundle plugin](https://www.npmjs.com/package/serverless-pseudo-parameters): Bundler based on the serverless-webpack plugin - requires zero configuration and fully compatible with ES6/ES7 features.
 
@@ -14,4 +14,6 @@ cd YOUR_PROJECT_NAME
 npm install
 ```
 
-You are ready to go!
+make sure you have installed serverless framework and AWS SDK 
+and after that you are ready to go!
+
