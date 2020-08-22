@@ -1,6 +1,6 @@
-# Codingly.io: Base Serverless Framework Template
+# A simple backend application using ServerLess and MicroServices Architecture concepts
 
-https://codingly.io
+# Base Serverless Framework Template (taken from Codingly.io) 
 
 ## What's included
 * Folder structure used consistently across our projects.
